@@ -7,7 +7,7 @@ This repository is an PyTorch implementation of the paper
 Clone this repository into any place you want.
 ```bash
 git clone
-https://github.com/calmevtime/LAPRAN-PyTorch
+https://github.com/PSCLab-ASU/LAPRAN-PyTorch
 cd LAPRAN-PyTorch
 
 ## Train your own model
