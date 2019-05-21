@@ -26,6 +26,6 @@ Then you get a four-stage LAPRAN for the cifar10 dataset.
 ## More codes of LAPRAN will be added to this repository later!
 
 ## Testing
-The pretrained CIFAR10 model can be downloaded from: https://1drv.ms/f/s!AlFrf6JmyPHiv0Cp-yhF56yxqZFg
+The pretrained CIFAR10 model can be downloaded from: https://1drv.ms/u/s!AlFrf6JmyPHiv3IFGiGTvJtNfb7v
 
 You can evaluate the pretrained model by running: python eval_adaptiveCS.py
